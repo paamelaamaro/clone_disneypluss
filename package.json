@@ -1,0 +1,27 @@
+{
+  "name": "clone_disneypluss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paamelaamaro/clone_disneypluss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paamelaamaro/clone_disneypluss/issues"
+  },
+  "homepage": "https://github.com/paamelaamaro/clone_disneypluss#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.88.0"
+  }
+}
